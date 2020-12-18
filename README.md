@@ -15,5 +15,11 @@ DirectX 11
 - [ ] OPENGL ES
 
 ## NuGet 
-
 coming soon
+
+## Samples
+Inlcude
+- [x] ComputeTexture2D [RWTexture]
+- WIP
+- [ ] ComputeTexture3D
+- [ ] ComputeBuffer
