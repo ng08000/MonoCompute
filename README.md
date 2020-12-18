@@ -5,7 +5,7 @@
 [Beta] **MonoCompute** is a UNITY like libraries that enable MONOGAME to support compute shader.
 
 
-## Feature
+## Features
 DirectX 11
 - [x] Support RWTexture
 - [x] Support RWStructure
